@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB66DBB7-FC4E-A3DA-EFA1-860D3ADB9799}|Assembly-CSharp.csproj|c:\\users\\ino_s\\desktop\\inoue shoto\\assets\\propmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB66DBB7-FC4E-A3DA-EFA1-860D3ADB9799}|Assembly-CSharp.csproj|solutionrelative:assets\\propmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB66DBB7-FC4E-A3DA-EFA1-860D3ADB9799}|Assembly-CSharp.csproj|C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB66DBB7-FC4E-A3DA-EFA1-860D3ADB9799}|Assembly-CSharp.csproj|solutionrelative:assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB66DBB7-FC4E-A3DA-EFA1-860D3ADB9799}|Assembly-CSharp.csproj|c:\\users\\ino_s\\desktop\\inoue shoto\\assets\\proptransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB66DBB7-FC4E-A3DA-EFA1-860D3ADB9799}|Assembly-CSharp.csproj|solutionrelative:assets\\proptransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB66DBB7-FC4E-A3DA-EFA1-860D3ADB9799}|Assembly-CSharp.csproj|C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\assets\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB66DBB7-FC4E-A3DA-EFA1-860D3ADB9799}|Assembly-CSharp.csproj|solutionrelative:assets\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB66DBB7-FC4E-A3DA-EFA1-860D3ADB9799}|Assembly-CSharp.csproj|C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\assets\\sharedassets\\scripts\\runtime\\fullscreentransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB66DBB7-FC4E-A3DA-EFA1-860D3ADB9799}|Assembly-CSharp.csproj|solutionrelative:assets\\sharedassets\\scripts\\runtime\\fullscreentransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropMovement.cs",
+              "DocumentMoniker": "C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\Assets\\PropMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PropMovement.cs",
+              "ToolTip": "C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\Assets\\PropMovement.cs",
+              "RelativeToolTip": "Assets\\PropMovement.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:10:26.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropTransform.cs",
+              "DocumentMoniker": "C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\Assets\\PropTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\PropTransform.cs",
+              "ToolTip": "C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\Assets\\PropTransform.cs",
+              "RelativeToolTip": "Assets\\PropTransform.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T03:30:10.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "camera.cs",
+              "DocumentMoniker": "C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\Assets\\camera.cs",
+              "RelativeDocumentMoniker": "Assets\\camera.cs",
+              "ToolTip": "C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\Assets\\camera.cs",
+              "RelativeToolTip": "Assets\\camera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:08:11.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FullscreenTransition.cs",
+              "DocumentMoniker": "C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\Assets\\SharedAssets\\Scripts\\Runtime\\FullscreenTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\SharedAssets\\Scripts\\Runtime\\FullscreenTransition.cs",
+              "ToolTip": "C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\Assets\\SharedAssets\\Scripts\\Runtime\\FullscreenTransition.cs",
+              "RelativeToolTip": "Assets\\SharedAssets\\Scripts\\Runtime\\FullscreenTransition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:00:47.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\Assets\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\ino_s\\Desktop\\Inoue Shoto\\Assets\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewBehaviourScript.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:47:06.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
